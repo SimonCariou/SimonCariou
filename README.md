@@ -24,12 +24,9 @@ Here are some ideas to get you started:
 <img align="left" alt="Simon's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
 <br />
 
 Hi, I'm Simon Cariou, blabla dev multiple stuff. Beside's Computer Science, I love photography/video montage.
-
-<img align="right" width="480" height="360"  alt="GIF" src="https://giphy.com/embed/3o6wNUX7nCRI1rKCIw" />
 
 **Talking about Personal Stuffs:**
 
