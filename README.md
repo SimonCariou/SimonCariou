@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Simon Cariou, blabla dev multiple stuff. Beside's Computer Science, I love photography/video montage.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="right" width="480" height="360"  alt="GIF" src="https://giphy.com/embed/3o6wNUX7nCRI1rKCIw" />
 
 **Talking about Personal Stuffs:**
 
