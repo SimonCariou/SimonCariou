@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Simon's Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1753/PNG/128/iconfinder-social-media-applications-3instagram-4102579_113804.png" />
 </a>
 <br />
-
+<br />
 Hi, I'm Simon Cariou, a Software engineer currently working at SoftBank Robotics Europe (formerly Aldebaran).
 
 I really enjoy developping funny stuff as little side projects as an example: my personal robotic assistant that shuts off and turns on the lights in my appartment and others that you can find on my Github.
