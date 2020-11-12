@@ -31,7 +31,7 @@ I really enjoy developping funny stuff as little side projects as an example: my
 
 Besides Computer Science, I love photography editing and GoPro video montage and I've been play electric/acoustic guitar for the past 20+ years 🎸
 
-**A bit more about me: **
+**A bit more about me:**
 
 - 🌱 I’m currently learning Python and C++ and building my Wedding [wedsite](https://github.com/SimonCariou/wedsite/).
 - 💬 Ask me about anything, I am happy to help
