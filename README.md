@@ -36,7 +36,7 @@ Besides Computer Science, I love photography editing and GoPro video montage and
 - 🌱 I’m currently learning Python for Data Science and building my Wedding [wedsite](https://github.com/SimonCariou/wedsite/) using the NuxtJS framework.
 - 💬 Ask me about anything, I am happy to help o!!t
 - 📫 How to reach me: simon.cariou@epfedu.fr
-- 📝 [Resume](https://github.com/SimonCariou/SimonCariou/blob/dev/SimonCariou_resume.pdf)
+- 📝 [Resume](https://github.com/SimonCariou/SimonCariou/blob/main/Resume%20Simon%20Cariou2.pdf)
 
 **Languages and Tools:**
 
