@@ -33,7 +33,7 @@ Besides Computer Science, I love photography editing and GoPro video montage and
 
 **A bit more about me:**
 
-- 🌱 I’m currently learning Python for Data Science and building my Wedding [wedsite](https://github.com/SimonCariou/wedsite/) using the NuxtJS framework.
+- 🌱 I’m currently in training to be a Data Engineer and developing a react-native app with Firebase as a BaaS as a side project.
 - 💬 Ask me about anything, I am happy to help out!
 - 📫 How to reach me: simon.cariou@epfedu.fr
 - 📝 [Resume](https://github.com/SimonCariou/SimonCariou/blob/main/Resume%20Simon%20Cariou2.pdf)
@@ -47,4 +47,4 @@ Besides Computer Science, I love photography editing and GoPro video montage and
 <code><img height="20" src="https://www.iconarchive.com/download/i98403/dakirby309/simply-styled/OS-Linux.ico"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=simoncariou&show_icons=true&hide_border=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=simoncariou)
