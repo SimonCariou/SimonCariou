@@ -1,18 +1,3 @@
-<!--
-**SimonCariou/SimonCariou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### Hi there 👋, I'm Simon!
 
 <br/>
@@ -29,11 +14,11 @@ Hi, I'm Simon Cariou, a Software engineer currently working at SoftBank Robotics
 
 I really enjoy developping funny stuff as little side projects as an example: my personal robotic assistant that shuts off and turns on the lights in my appartment and others that you can find on my Github.
 
-Besides Computer Science, I love photography editing and GoPro video montage and I've been play electric/acoustic guitar for the past 20+ years 🎸
+Besides Computer and Data Science, I love photography editing and GoPro video montage and I've been play electric/acoustic guitar for the past 20+ years 🎸
 
 **A bit more about me:**
 
-- 🌱 I’m currently in training to be a Data Engineer and developing a react-native app with Firebase as a BaaS as a side project.
+- 🌱 I am a Data Engineer.
 - 💬 Ask me about anything, I am happy to help out!
 - 📫 How to reach me: simon.cariou@epfedu.fr
 - 📝 [Resume](https://github.com/SimonCariou/SimonCariou/blob/main/Resume%20Simon%20Cariou2.pdf)
