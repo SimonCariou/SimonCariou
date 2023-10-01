@@ -18,7 +18,6 @@ Besides Computer and Data Science, I love photography editing and GoPro video mo
 - 🌱 I am a Data Engineer.
 - 💬 Ask me about anything, I am happy to help out!
 - 📫 How to reach me: simon.cariou@epfedu.fr
-- 📝 [Resume](https://github.com/SimonCariou/SimonCariou/blob/main/Resume%20Simon%20Cariou2.pdf)
 
 **Languages and Tools:**
 
